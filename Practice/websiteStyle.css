@@ -1,0 +1,26 @@
+header, footer {
+    background-color: grey;
+    color: white;
+    padding: 15px;
+    font-size:300%;
+    font-family:helvetica;
+}
+
+body {
+    background-color: red;
+}
+h1 {
+    color: white;
+    font-family:helvetica;
+    font-size:300%;
+}
+h2 {
+    color: white;
+    font-family: helvetica;
+p {
+    color: white;
+    font-family: helvetica;
+}
+a {
+    color: white;
+}
